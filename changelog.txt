@@ -1,0 +1,24 @@
+==========02 Sept 2023==========
+- Merge Tag android-13.0.0_r74
+- August Security Patch
+- Add more option for ScreenRecord
+- Add Dynamic VoLTE/VoWifi icons
+- Add Option for Battery Styles
+- Add Some Battery Style (you can checkout on Battery Settings)
+- Add Lockscreen Charging
+- Add ReTicker Settings
+- Add option to Allow using 4G icon instead LTE
+- Add option to make Roaming indicator optional
+- Add option to Remove IME space under keyboard feature
+- Add option to force enable LTE_CA
+- Add dual tone for QS
+- Add ignore window secure flags
+- Add Network Traffic Indicator
+- Add Statusbar Tuner
+- Add Smart 5G Service
+- Add App Lock
+- Add Blur Lockscreen Media Art
+- Implement Lockscreen Quick Unlock
+- Redesign Seekbar & Volume Design
+- Redesign Settings Style
+- 
